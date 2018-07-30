@@ -5,8 +5,6 @@ nltk==3.2.5
 numpy==1.13.3
 scikit-learn==0.19.1
 scipy==1.0.0
-sessioninstaller==0.0.0
-simplegeneric==0.8.1
 six==1.11.0
 sklearn==0.0
 Werkzeug==0.13
